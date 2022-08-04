@@ -1,5 +1,5 @@
-# Certificates Of Completion Public Speaking 
+# Public Speaking 
 
-## (NASBA) Certificate Of Completion_Public Speaking.
+1. [(NASBA) Certificate Of Completion_Public Speaking.](./(NASBA)CertificateOfCompletion_Public%20Speaking%20Foundations.pdf)
 
-## (PMI) Certificate Of Completion_Public Speaking Foundations.
+2. [(PMI) Certificate Of Completion_Public Speaking Foundations.](./(PMI)CertificateOfCompletion_Public%20Speaking%20Foundations.pdf)
